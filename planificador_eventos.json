@@ -1,0 +1,57 @@
+{
+    "recursos": {
+        "Guantes 16 oz": {
+            "cantidad_total": 10,
+            "cantidad_asignada": 2
+        },
+        "Guantes 14 oz": {
+            "cantidad_total": 10,
+            "cantidad_asignada": 0
+        },
+        "Vendas": {
+            "cantidad_total": 20,
+            "cantidad_asignada": 2
+        },
+        "Peleadores": {
+            "cantidad_total": 20,
+            "cantidad_asignada": 2
+        },
+        "Equipo de entrenamiento": {
+            "cantidad_total": 10,
+            "cantidad_asignada": 2
+        },
+        "arbitros": {
+            "cantidad_total": 5,
+            "cantidad_asignada": 1
+        },
+        "Cascos": {
+            "cantidad_total": 10,
+            "cantidad_asignada": 0
+        },
+        "Protector Bucal": {
+            "cantidad_total": 20,
+            "cantidad_asignada": 2
+        }
+    },
+    "eventos": [
+        {
+            "id_evento": 1,
+            "fecha": "2025-12-06",
+            "hora_inicio": "20:00",
+            "hora_fin": "22:00",
+            "recursos_solicitados": {
+                "Guantes 16 oz": 2,
+                "Guantes 14 oz": 0,
+                "Vendas": 2,
+                "Peleadores": 2,
+                "Equipo de entrenamiento": 2,
+                "\u00c1rbitros": 1,
+                "Cascos": 0,
+                "Protector Bucal": 2
+            },
+            "recurrente": true
+        }
+    ],
+    "ultimo_id_evento": 1,
+    "ultimo_evento_no_reutilizable_fecha": "2025-12-06"
+}
